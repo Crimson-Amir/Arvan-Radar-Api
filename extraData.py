@@ -1,11 +1,12 @@
 datacenter_keys = {
-    'hamrah_aval': 'mci',
-    'mobin_net': 'mobinnet',
-    'afranet': 'afranet',
-    'pars_online': 'parsonline',
-    'host_iran': 'hostiran',
-    'tehran_1': 'tehran-1',
-    'tehran_2': 'tehran-2',
-    'tehran_3': 'tehran-3',
+    'Hamrah_aval': 'mci',
+    'Mobin_net': 'mobinnet',
+    'Irancell': 'irancell',
+    'Afranet': 'afranet',
+    'Pars_online': 'parsonline',
+    'Host_iran': 'hostiran',
+    'Tehran_1': 'tehran-1',
+    'Tehran_2': 'tehran-2',
+    'Tehran_3': 'tehran-3',
 }
 url_format = 'https://radar.arvancloud.ir/api/v1/internet-monitoring?isp={0}'

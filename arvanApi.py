@@ -66,7 +66,7 @@ class ArvanRadar:
         self._url_format = self._url_format + f'&date={date}&time={time}'
 
 
-a = ArvanRadar()
-b = a.get_data('hamrah_aval','mobin_net','afranet','pars_online','host_iran','tehran_1','tehran_2','tehran_3')
-p = plot.RadarPlot(b)
-p.make_plot()
+# a = ArvanRadar()
+# b = a.get_data('Hamrah_aval', 'Mobin_net', 'Irancell', 'Afranet', 'Pars_online', 'Host_iran', 'Tehran_1', 'Tehran_2')
+# p = plot.RadarPlot(b)
+# a = p.make_plot_2()
